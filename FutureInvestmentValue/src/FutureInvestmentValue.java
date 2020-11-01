@@ -3,7 +3,7 @@
 * Name: Feras
 * Description: this program is designed to calculate the future investment value
 * using a formula.
- */
+*****/
 
 //import
 import java.util.* ;
